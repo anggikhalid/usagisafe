@@ -1,0 +1,2 @@
+# usagisafe
+versi 2
