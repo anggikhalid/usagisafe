@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="5-things-you-need-to-know-before-taking-your-company-global.html"}
 if(x=="2"){xxx="how-to-use-sampling-to-improve-your-sales.html"}
 if(x=="3"){xxx="developing-innovative-products.html"}
-if(x=="4"){xxx="official-blockchain-standards-for-2019.html"}a_to_ve[i].href="https://www.usagisafe.site/2018/11/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="official-blockchain-standards-for-2019.html"}a_to_ve[i].href="https://usagisafe.blogspot.com/2018/11/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
